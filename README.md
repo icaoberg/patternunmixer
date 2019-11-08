@@ -8,6 +8,8 @@ as extended in
 
 * T. Peng, G.M.C. Bonamy, E. Glory, D. Rines, S. K. Chanda, and R. F. Murphy (2010) Automated Unmixing Of Subcellular Patterns: Determining the Distribution of Probes Between Different Subcellular Locations. Proc. Natl. Acad. Sci. U.S.A. 107:2944-2949. 
 
-To report bugs, suggest additions, or request inclusion on the mailing list to receive notices of updates, please send mail to murphy@cmu.edu.
+## Contact Us
+To report bugs and suggest additions please open a ticket on GitHub.
 
+## Other
 * [Test images (81.3 MB)](http://murphylab.cbi.cmu.edu/software/PatternUnmixer2.0/PatternUnmixer-testimages.zip)
